@@ -1,0 +1,32 @@
+body{
+background-color: aqua;
+font: normal 17pt Arial;
+
+}
+
+header{
+text-align: center;
+}
+
+section{
+background-color: white;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+} 
+
+#mensagem{
+    text-align: center;
+} 
+
+#foto{
+    text-align: center;
+}
+
+footer{
+text-align: center;
+font-style: italic; 
+margin-top: 20px;
+
+}
